@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Quizapp/static/css/main.fdc12d87.css",
+    "main.js": "/Quizapp/static/js/main.77866f4c.js",
+    "static/js/885.184707d3.chunk.js": "/Quizapp/static/js/885.184707d3.chunk.js",
+    "static/media/countdown-from-10-105775.mp3": "/Quizapp/static/media/countdown-from-10-105775.5a2ba4bb1ccc561685ee.mp3",
+    "static/media/incorrect-buzzer-sound-147336.mp3": "/Quizapp/static/media/incorrect-buzzer-sound-147336.20790bab9d5b65e69abe.mp3",
+    "static/media/correct-83487.mp3": "/Quizapp/static/media/correct-83487.3e178f59003fefe56e8a.mp3",
+    "index.html": "/Quizapp/index.html",
+    "main.fdc12d87.css.map": "/Quizapp/static/css/main.fdc12d87.css.map",
+    "main.77866f4c.js.map": "/Quizapp/static/js/main.77866f4c.js.map",
+    "885.184707d3.chunk.js.map": "/Quizapp/static/js/885.184707d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc12d87.css",
+    "static/js/main.77866f4c.js"
+  ]
+}
